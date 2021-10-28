@@ -18,4 +18,4 @@ Sono state utilizzate:
 	- PHP
 
 ## Conclusioni
-Per maggiori informazioni consultare la relazione
+Per maggiori informazioni consultare la relazione al seguente link [https://github.com/Sergio-dot/Programmazione-Web/blob/main/Relazione.pdf](url)
